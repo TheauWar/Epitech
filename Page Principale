@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-	<head>
+<html lang="fr">
+<head>
+	<meta charset="utf_8">
 	<title>Epitech - La covid 19</title>
-	</head>
+		<link rel="stylesheet"  href="Styles/style1.css">
+</head>
 	<body>
-	Bienvenue sur mon site
+	<h1>Site de vente d'objet du futur du e-commerce</h1>
 	</body>
 	</html>
-salut
-emile
