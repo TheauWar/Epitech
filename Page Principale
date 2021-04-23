@@ -1,11 +1,24 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
 	<meta charset="utf_8">
 	<title>Epitech - La covid 19</title>
-		<link rel="stylesheet"  href="Styles/style1.css">
+		<link rel="stylesheet"  href="Style.css">
 </head>
 	<body>
-	<h1>Site de vente d'objet du futur du e-commerce</h1>
+	<h1>Covishop</h1>
+	<ul id="menu" >
+		<li><a href="#" title="section menu">Page de garde</a></li>
+		<br>
+		<li><a href="#" title="section produit">Nos produits</a></li>
+		<br>
+		<li><a href="#" title="section qualite">Production</a></li>
+		<br>
+		<li><a href="#" title="section info">En savoir plus</a></li>
+	</ul>
+	<label for="recherche"></label>
+	<input type="text" id="recherche" name="recherche" maxlength="16" size="10" placeholder="Vous recherchez quelque chose ?">
+	
+	<h2 id="txt_categorie">Les meilleurs ventes :<h2\>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	</body>
 	</html>
